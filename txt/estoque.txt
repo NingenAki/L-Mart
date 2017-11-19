@@ -1,0 +1,39 @@
+Radio
+ 199.90
+3
+Bola
+   5.00
+300
+Pudim
+   1.99
+1
+Stuff
+   1.99
+1
+Forest Gump
+   1.99
+1
+Wii
+ 850.11
+5
+Goiabada Cascao
+   5.80
+22
+Boia
+   5.99
+2
+Bambole
+  10.99
+100
+Caixa de Fosforos
+   1.99
+42
+Pao de Queijo
+   2.30
+36
+Pilha AAA Alcalina
+   2.99
+32
+TV
+ 579.90
+2
